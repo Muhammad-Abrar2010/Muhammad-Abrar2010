@@ -1,7 +1,6 @@
 
 <div align="center">
 
-![Header](./github-header-image.png)
 
 # 💫 About Me:
 ### Hi there 👋, I'm Muhammad Abrar, a passionate frontend developer and high school student with a strong foundation in web development technologies. I have experience building user-friendly websites using HTML, CSS, and JavaScript, and I’m skilled in frameworks like React. I’ve developed several projects including a personal portfolio site and a resident management app. I’m excited to leverage my creative problem-solving abilities and technical skills in a dynamic environment. My goal is to contribute to innovative projects and continue learning as I pursue a future in web development. Let’s connect to explore opportunities where I can bring my enthusiasm and skills to the team!<br><br>---
